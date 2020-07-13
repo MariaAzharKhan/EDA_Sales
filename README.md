@@ -1,2 +1,1 @@
-# EDA_Sales
 EXPLORATORY DATA ANALYSIS of sales data
